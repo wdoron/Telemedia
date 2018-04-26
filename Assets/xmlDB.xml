@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<AAN>FOCA 34-44-08              ENAC N-CS-063             </AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900/900B</ACT>
+		<DESC>Upgrade of Honeywell GPWS Mk. V to Honeywell EGPWS MK5 </DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.C.05349</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900</ACT>
+		<DESC>Upgrade to a Honeywell dual CD-820 upgrade</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.02936</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900</ACT>
+		<DESC>Installation of a Dual Collins TDR-94D EHS upgrade</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 06-432-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900 and F900EX</ACT>
+		<DESC>Honeywell DL950 upgrade</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>Minor 10031049</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Cabin Refurbishment (including seats, cushions, new carpet and replacement of the existing mirrors)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 05-441-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Upgrade of the Aircell 3100 Iridium Satphone</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 05-321-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Installation of the Aircell 3100 Iridium Satcom System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 05-320-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Modification of the Cabin Entertainment</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10038397</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Replacement of the carpet</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10034741</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Cabin Refurbishment (including seats, cushions, new carpet and re-covering of ceiling, pedestal, side panel,...)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 6-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900 </ACT>
+		<DESC>Installation of GA100 CVR System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 7-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900 </ACT>
+		<DESC>Installation of ACSS TCAS-2000 TCAS-II system with dual ACSS RCZ-852 Mode ‘S’ transponders.</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-108-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF900EX</ACT>
+		<DESC>Installation of AlliedSignal AFIS</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10034124</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault F7X</ACT>
+		<DESC>Cabin Refurbishment (including Veneer repair, varnishing, new carpet and panel-recovering)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.02831</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Installation of a F.D.S. DVD player</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.01742</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Installation of an Aircell 3100 Iridium Satcom</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.0158</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Installation of an Iridium Satphone antenna</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.0159 rev1</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Installation of a Garmin GMA340 audio panel</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 06-329-hah</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45</ACT>
+		<DESC>Installation of a baggage compartment curtain</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.02792</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Installation of an AFT Refreshment galley and oven</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>minor 10034495</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Replacement of the obsolete GNS530 with the new GNS530W</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.00161 rev2</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12, /45, /47</ACT>
+		<DESC>Installation of Garmin Dual GNS430 or GNS430/530 COM/NAV/GPS Systems</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.IM.A.S.01688</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12/45</ACT>
+		<DESC>Structural installation of Honeywell KA815 TCAS I antennas</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 04-172-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12/45</ACT>
+		<DESC>Installation of the Honeywell KMH-880 Multi-hazard awareness system with KMD-850 MFD</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 05-442-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12/45</ACT>
+		<DESC>Installation of the Honeywell KMH-880 Multi-hazard awareness system </DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>N°2004-9162</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12/45</ACT>
+		<DESC>Installation of a cabin RS232 GPS Data Socket</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>N°2004-9161</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12/45</ACT>
+		<DESC>Installation of a MFD GPS 1/2 selection</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD01-183-gig</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Pilatus PC-12/45</ACT>
+		<DESC>Installation of DC-DC Converter</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA Z31-30-04            DGAC 163-SI-2076</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of Avionica miniQAR</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA.IM.A.S.01226</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of an Universal TAWS and MFD640 display</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10028148</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Change of Cabin Configuration</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10036299</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Cabin Refurbishment (including seats re-upholstery, new carpet and panel and galley re-veneering)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10028146</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Replacement of the existing PAX 115 VAC system by a new 220 VAC system</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>10028141</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Replacement of the existing CD-Player by a Rosenview VX system (4 plug-in 7'' LCD Monitors in the Cabin)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 03-150-hf              DGAC F-C163-SI-2102</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of ICARUS Sky Connect Iridium SATCOM System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 02-090-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of EGPWS Mark VII</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 05-132-hf</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Modification of the Cabin Entertainment and the Lighting Sytem</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 06-430-fam</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of a Rosen 17'' LCD Monitor</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-287-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Instalaltion of a Second Collins ADC-80 Pitot/Static system</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-288-h?    FOCA MOD 01-289-h?    FOCA MOD 02-099-hf           ENAC CS-32            </AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of a Dual Collins TDR-94D Mode S and a COLLINS TCAS II System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MA00-01</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of Universal UNS-1Msp FMS</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-285-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of GLOBALSTAR SATCOM Antenna on top Engine #2</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>ENAC CS-7</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Replacement of Dual Universal UNS-1 by Dual UNS-1K and updated existing third UNS-1NMS</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>Minor 10037681</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Seat belts replacement for cabin and cockpit seats + sofa and jump seat</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>N°2004-846</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of Rosen 15'' LCD monitors for passengers entertainment to replace CRT monitors</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>N°2004-845</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Upgrade of the existing B&amp;D CVR to Hnoeywell SSCVR</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA BAZL 22.11.95</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Upgrade of GNS-500A series 4 to Series 5 with GPS antenna</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 5-h?             FOCA MA 99-002 </AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Replacement of dual global GNS-X by Dual Universal UNS-1K FMS</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-290-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of the Honeywell Mark V with EGPWS</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-291-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of ELT Artex-200</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD 01-127-h?</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of a Single Trimble TNL 2101 I/O Approach Plus GPS Navigation</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD FL/Gj-1           FOCA MOD FL/H?-2</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of Fairchild DFDR F800</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD FL/Gj-3           FOCA MOD FL/H?-4</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation d’un four electrique TIA Electric Company Inc. Model 1432</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>FOCA MOD FL/Hf-5</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation of SUNDSTRAND Mark V GPWS</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>T 05-96/18</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Installation DFDR Fairchild 1000</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>ENAC 2000-75E/ECI</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault MF50</ACT>
+		<DESC>Replacement of vhf/com #1,#2 et #3</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>Minor 10036433</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault F2000</ACT>
+		<DESC>Cabin Refurbishment (including new carpets, new curtains and re-upholstery)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>Minor EASA.A.C.05720</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault F2000</ACT>
+		<DESC>Installation of a FD600CAM Cockpit Camera</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>EASA 234A-CN</AAN>
+		<MCAN>N/A</MCAN>
+		<ACT>Dassault F2000</ACT>
+		<DESC>Replacement of existing Raytheon Magnastar C2000 System by an Icarus Skyconnect Executive System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP241</APPB>
+	</record>
+	<record>
+		<AAN>P-EASA.R.S.01582</AAN>
+		<ACT>MD 900</ACT>
+		<DESC>Adaption of a removable Cine Flex V14 Camera to an existing OEM approved camera mount. Additionally the certification of FM COM, Video Display on the main instrument panel and the communication and broadcasting rack in the PAX cabin</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10000345</AAN>
+		<MCAN>NA</MCAN>
+		<ACT>MD 900</ACT>
+		<DESC>Replacement of KT70 with Mode S KTT73 Transponder</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10026945
+P-EASA.A.C.12498</AAN>
+		<ACT>C414</ACT>
+		<DESC>Kannad 406AF Compact 406MHz installation</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>FAA 337</AAN>
+		<ACT>F900EX</ACT>
+		<DESC>DL950 dataloader replacement</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>FAA</APPB>
+	</record>
+	<record>
+		<AAN>MOD 02-083-gig</AAN>
+		<ACT>AS 350B3</ACT>
+		<DESC>Avionics installation acc. IB 02-083 
+UPPER/LOWER CARGO SELECTOR</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>MOD 02-101-lar</AAN>
+		<ACT>DHC</ACT>
+		<DESC>Installation of EGPWS, VG Collins 332D-11</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>MOD 03-040-lar</AAN>
+		<ACT>DHC</ACT>
+		<DESC>Installation of EGPWS, EMRG Horizon, 
+ELT 406, GTX 330</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>MOD 03-141-lar</AAN>
+		<ACT>EC130 B4</ACT>
+		<DESC>Installation of Motorola GM 360 FM Radio 3W</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.S.0087</AAN>
+		<ACT>AS 350B2
+AS 350B3</ACT>
+		<DESC>Installation of a Moving Map Display "Moving
+Terrain MT VisionAir EP" series</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.00200</AAN>
+		<ACT>DHC</ACT>
+		<DESC>Installation of TAWS class A Honeywell MK VI
+incl. KMD-850 indicator</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>MOD 06-103-gig</AAN>
+		<ACT>PA-46-350P</ACT>
+		<DESC>Installation of Mode S Transponder KT73</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02052</AAN>
+		<MCAN>-</MCAN>
+		<ACT>EC 120B</ACT>
+		<DESC>Installation of a GNS 430 COM/NAV/GPS
+with KI825 EHSI</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02218</AAN>
+		<ACT>AS 350B</ACT>
+		<DESC>LED external light &amp; ANR HDST Mod. By installing
+- 2 LED Position Light, Model 9000
+- 1 LED Position Light,  Model 9200
+- 1 LED Strobe Light, Model 9500
+- 6 Active Noise Reduction (ANR) Headset,
+BOSE Aviation Headset X</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02632</AAN>
+		<MCAN>-</MCAN>
+		<ACT>A 109E</ACT>
+		<DESC>Installation of new Becker BXP-6402-1R-(01)
+Transponder Mode S system</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02754</AAN>
+		<ACT>AS 350 B3</ACT>
+		<DESC>Installation of a GMA 340H Audio/MKR Panel </DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02706</AAN>
+		<ACT>EC 135P2</ACT>
+		<DESC>Installation of a VFR-FM Transceiver and a Moving
+Map System basing on previously approved 
+Eurocopter (ECD) provisions</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02962</AAN>
+		<ACT>A 109A
+A 109E</ACT>
+		<DESC>Installation of new Becker BXP-6402-1R-(01)
+Transponder Mode S system</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.S.01415</AAN>
+		<ACT>SA 365N</ACT>
+		<DESC>New installed Equipment:
+- Pilot &amp; Copilot KI825 EHSI
+- GPS400 with 2 MD41 GPS Control Units, GAD42 Interface Adapter and KA52 Autopilot Adapter
+- KTR908 VHF COM with KFS598A Control Head
+AD32 Air Data Display with SA200 Altitude Preselector
+- 3A63 Pneumatic Altimeter
+- 406AF ELT</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>minor with OP</AAN>
+		<ACT>DHC</ACT>
+		<DESC>New Equipment Installed:
+- ISAT-100 Unit (GPS Receiver and
+IRIDIUM Transceiver)
+- IRIDIUM/ GPS Combi Antenna
+- DVI Display Voice Interface mounted on the
+Cockpit Pedestal
+- CDP Cockpit Display Panel mounted in the 
+Cockpit Pedestal</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>EASA.21J.038</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03115</AAN>
+		<ACT>EC 120B</ACT>
+		<DESC>Installation of Audio Panel Garmin GMA 340H</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02969</AAN>
+		<ACT>AS 350 B3</ACT>
+		<DESC>Replacement of anti collision lights by 2 Whelen
+Strobe Light Assy A650PG &amp; A650PR on the RH
+&amp; LH Tail Horizontal Stabilizer and associated
+Whelen Power Supply HDACF inside the FWD
+Tailboom</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03181</AAN>
+		<ACT>AS 365N
+AS 365N1
+AS 365N2</ACT>
+		<DESC>New Installed Equipment:
+- N301A-000 Pilot and Co-Pilot Audio Panel
+- AA38-300 Passenger Interphone
+- DMP 10000 Digital Media Player
+- 10 new BOSE Headset</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.02967</AAN>
+		<ACT>A 109A</ACT>
+		<DESC>Installation of ELT 406 MHz System</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03224</AAN>
+		<ACT>AS 350 BA</ACT>
+		<DESC>New Equipment Installed:
+- GNS 430W COM/NAV/GPS#1 incl. MD41-1488
+GPS Annunciator Unit
+- GTX 330 Mode S Transponder System
+- GMA 340H Audio Panel
+- GM 360 VHF-FM COM
+- Kannad ELT 406 AF-H incl. CS144 Nav Interface</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03238</AAN>
+		<ACT>Bell 206B</ACT>
+		<DESC>New Installed Equipment:
+- Honeywell KX-155A NAV/COM system
+- Honeywell KY-196A COM
+- PS Engineering PAC-24 Audio Panel</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03351</AAN>
+		<ACT>EC 350B
+Series</ACT>
+		<DESC>Installation of Avidyne TAS 6XX Series</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>P-EASA.R.C.03340</AAN>
+		<ACT>MD 520</ACT>
+		<DESC>Installed:
+- Moving MAP
+- Transponder Mode S (ELS) 
+- 4300 Electric Attitude Indicator</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.A.S.03314</AAN>
+		<ACT>DHC 6-300</ACT>
+		<DESC>Removed:
+- SFENA 705-20 STBY Horizon System
+- Bofors VHF / UHF AMR-345-3 System
+- Wilcox 914X-1 Transponder System
+- VHF-NAV &amp; ADF Control Panels
+- Collins 339F-12 DME indicator &amp; 332C-10 RMI indicator
+- Turn &amp; Bank indicator
+- Marker Beacon Lights
+Installed:
+- Weather Radar System incl. ART-2000, AA-2012V, CM-2000
+- Garmin GMX-200 Multi Function Display System
+- Avidyne TAS-620 System incl. Heading Adapter AHRS-500
+- Garmin GTX-330 Mode S Transponder System
+- Collins DME IND-42 System
+- UNS-1K+ FMS Upgrade
+- Bendix/ King EHSI KI-825 incl. KN-40 converter
+- Collins Dual VHF-NAV control panel CTL-32
+- Collins ADF control panel CTL-62 and CAD-62
+- Mid Continent STBY Attitude Gyro MD-420 incl. battery module and Annunciator MD-422 MD-421
+- Thommen STBY Altimeter
+- Magnavox VHF/ UHF CA-230A receiver/ transmitter system</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03373</AAN>
+		<ACT>AS 332 C1</ACT>
+		<DESC>Installation of Moving Terrain VisionAir EP mission 
+MFD and Garmin GPS-400W system 
+(both systems  stand alone)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03340</AAN>
+		<ACT>MD 500N</ACT>
+		<DESC>New Installed Equipment:
+- Whelen TSO Led NAV light
+- MD 4300 Electrical Horizon
+- Garmin GTX 330 Mode S Transponder
+- Moving Terrain MT VisionAir EP</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03467</AAN>
+		<ACT>AS 350 B3</ACT>
+		<DESC>New Installed Equipment:
+- Dual Sandel EHSI SN: 3500-004
+- Dual Sandel AHRS SG 102-200
+- Dual Sandel Magnetic Transducer MT 102-300
+- PS Engineering PMS 700B Audio System
+- L3 WX500 Stormscope
+- additional Mid Continent Horizon MD4300
+- additional United Altimeter 5934-PD-3
+- additional Revue Thommen Airspeed indicator
+5A58.22.18K.28.1.HH</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.S.01547</AAN>
+		<ACT>MD 500 N</ACT>
+		<DESC>Installed L3 Avionics System Type A100 IRIRS Camera System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.S.01550</AAN>
+		<ACT>AS 332 C1</ACT>
+		<DESC>Pilot and Co-Pilot Upper/ Lower Cargo Hook 
+Release modification</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>EASA.R.C.03371</AAN>
+		<ACT>AS 332 C1</ACT>
+		<DESC>Design Change for Passenger Seat</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>P-EASA.R.C.03519</AAN>
+		<ACT>EC 130</ACT>
+		<DESC>Install of TAS600, Moving MAP, FM radio, 
+Stereo audio with BOSE Hdst</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10026921</AAN>
+		<ACT>EC130 B4</ACT>
+		<DESC>Removed equipment:
+- Garmin GMA 340H Audio Panel
+Installed Equipment:
+- PS Engineering PMA7000B Audio Panel
+- Moving Terrain MT Vision Air EP III
+- Avidyne TAS 600 Traffic Advisory System
+- Motorola VHF-FM 360 FM Mission Radio</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10027056</AAN>
+		<ACT>MD 900</ACT>
+		<DESC>Removed:
+- King KT-70 system
+Installed:
+- King KT-73 system</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10027200</AAN>
+		<ACT>MD 900</ACT>
+		<DESC>Camera adaptation on existing mount and 
+certification of the operators rack</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10027334</AAN>
+		<ACT>AS 350B3</ACT>
+		<DESC>Removed: VHF/COM Honeywell KY-96A
+Installed: VHF/COM Honeywell KY-196A</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10027358</AAN>
+		<ACT>A109AII</ACT>
+		<DESC>Removed: 
+- Dual VHF/COM Collins VHF-20 System &amp; II Morrow 602 Loran C receiver System
+Installed: 
+- Dual VHF/COM Honeywell KY-196A System</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10027861</AAN>
+		<ACT>A109E</ACT>
+		<DESC>Removed:
+- Skyforce Moving Map
+Installed:
+- Moving Terrain MT VisionAir EP TSO
+- Avidyne Traffic Avoidance System TAS 610</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10028076</AAN>
+		<ACT>C172 
+A, B, C, D, E, F, G, H, I, K, L, M, N, P, Q</ACT>
+		<DESC>Remove:
+- Garmin GTX-320 or -327 mode A/C transponder system
+Installed:
+- Becker BXP 6403-1(01) mode S transponder system</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10028326</AAN>
+		<MCAN>HB-ZJT</MCAN>
+		<ACT>EC 120B</ACT>
+		<DESC>Removed:
+- Original Position Lights Red and Green
+Installed:
+- Avidyne TAS 610 System
+- Moving Terrain Vision Air EP TSO
+- Whelen Strobe / Position Lights Red and Green</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10028751</AAN>
+		<ACT>AS 350 
+B/ B1/ B2/BA/ BB</ACT>
+		<DESC>Replacing existing LH and RH position lights with new Wheelen A650 Combi Flastube/ Position Light assies incl. A HDACF Power Supply</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10028913</AAN>
+		<ACT>AS 350 
+B/ B1/ B2/ B3/ BA/ BB/D</ACT>
+		<DESC>Exchange to BXP6403-1(01) Mode S XPDR
+Removed Equipment:
+-i.a.w. DIC
+New Equipment:
+-BXP6403-1-(01) Mode S Transponder</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10029610</AAN>
+		<ACT>PA-28</ACT>
+		<DESC>Removed:
+-i.a.w. DIC, Doc. No. 169982-101
+Installed:
+-Becker BXP 6403-1(01) Mode S XPDR</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10029574</AAN>
+		<ACT>AS350B2</ACT>
+		<DESC>Addition of an Upper/ Lower Hook Selector and 2 associated annunciators</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10029703</AAN>
+		<ACT>AS 350 B3</ACT>
+		<DESC>Installing a new KY-196A VHF COM as COM #2</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10029913</AAN>
+		<ACT>EC 130 B4</ACT>
+		<DESC>Installation of PS Engineering PMA 7000B "Opt 2" audio system with IntelliPax Intercom Expansion Unit</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10029954</AAN>
+		<ACT>EC 130 B4</ACT>
+		<DESC>Removed:
+-existing red position light, P/N 6490521
+-existing green position light, P/N 6490511
+Installed:
+-HDACF Strobe Power Supply
+-A650PG green position/anticollision light assy
+-A650PR red position/anticollision light assy</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10030015</AAN>
+		<ACT>AS332 C1</ACT>
+		<DESC>Deviation to EASA STC EASA.R.S.01229 (EDF Human External Cargo)</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10030314</AAN>
+		<ACT>EC 135 P2</ACT>
+		<DESC>Moving MAP modification
+Removed:
+- EuroNav IV + System
+Installed:
+- Video converter MT-Thales</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10030985</AAN>
+		<ACT>P 180
+AVANTI II</ACT>
+		<DESC>Installed:
+- ROSEN "Rosen View WX"
+- moving MAP
+- DVD System
+- IR Eye
+- One Flight Display System 10.2 inch LCD
+- Two 7 inch LCD's
+- Flight Display System Wireless Audio TX
+- Sennheiser HDR140 wireless hdst</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10031665</AAN>
+		<ACT>AS 350 B3</ACT>
+		<DESC>Introducing a second separate electrical release circuit to the existing electrical upper cargo hook to add the possibility to release the lower cargo load separately in case of "long line" operation.
+The mechanical emergency release circuit on the upper hook remains unchanged.</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10031684</AAN>
+		<ACT>AS 350 B3</ACT>
+		<DESC>Installing a new Motorola GM360 FM COM</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10032015</AAN>
+		<ACT>EC 130</ACT>
+		<DESC>Out: Bendix/King KT-76A Mode A/C Transponder system
+In: Garmin GTX-330 Mode S Transponder system </DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10032065</AAN>
+		<ACT>MF 900</ACT>
+		<DESC>Out: R&amp;C Airshow 200 DIU &amp; Sagem RGB PAL Converter
+In: R&amp;C Airshow 410 DIU</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10033042</AAN>
+		<ACT>A109 E  </ACT>
+		<DESC>Installation of Avidyne Traffic Avoidance system TAS 600 and Provision for Moving Map installation (MT-ultra profesional JTSO(ETOS))</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10033432</AAN>
+		<ACT>EC 130</ACT>
+		<DESC>Installation of new Motorola GM360 FM-COM unit</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10033301</AAN>
+		<ACT>EC 120</ACT>
+		<DESC>Out: Garmin GTX 327 Transponder
+In: Garmin GTX 330 Transponder</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10033871</AAN>
+		<ACT>S-76B</ACT>
+		<DESC>Deactivated: Dual Honeywell XS-850 XPDR
+Installed: Honeywell KT 73 Mode S XPDR</DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10034886</AAN>
+		<ACT>PC-6</ACT>
+		<DESC>Traffic Advisory System 605 &amp; Mission connector installation</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10034921</AAN>
+		<ACT>PC-6</ACT>
+		<DESC>Installation of Aspen EFD1000 Electronic Flight Instrument System</DESC>
+		<MOS>M</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10034320</AAN>
+		<ACT>EC 120 </ACT>
+		<DESC>Installation of a new Motorola GM 360 FM COM</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10035706</AAN>
+		<ACT>EC 120 B</ACT>
+		<DESC>Installation of a TAS 600 traffic Awarness System, TAIT TM8250 VHF-FM-COM, MT-EPIII-TSO </DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10035710</AAN>
+		<ACT>AB 206 B</ACT>
+		<DESC>Installation of new Dual KX155A COM/NAV, PAC 24 Audio Panel, Kannad 406 AF ELT </DESC>
+		<MOS>S</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>10037011</AAN>
+		<ACT>EC 130 B4</ACT>
+		<DESC>Out: Garmin GTX 330 Mode S Transponder &amp; GMA 340 nAudio/Marker system; Honeywell KX 165A VHF COM/NAV system.
+In: Aspen EFD1000H EFIS system, Garmin GNS430W VHF COM/NAV &amp; GPS system, Garmin GSR 56 Iridium system, PS Engineering PMA 8000B audio/marker system, Avidyne TAS 620 systm, Becker BXP 6401 2 Mode S  XPDR system, Free Flight RS 4500 RadAlt, MT Vision Moving Map system &amp; Airlite rechargeable battery system</DESC>
+		<MOS>S</MOS>
+		<MMSTC>STC</MMSTC>
+		<APPB>AP243</APPB>
+	</record>
+	<record>
+		<AAN>None</AAN>
+		<MCAN>MCA-945067-01</MCAN>
+		<ACT>EC120B</ACT>
+		<DESC>Removal of  the currently installed Moving Terrain P/N MTUP/00-3 and the Installation of a Moving Terrain VisionAir X P/N MTEX/PP-10-00 including wiring to existing TAS610</DESC>
+		<MOS>M</MOS>
+		<MMSTC>MCA</MMSTC>
+		<APPB>EASA.21J.451</APPB>
+	</record>
+</data-set>

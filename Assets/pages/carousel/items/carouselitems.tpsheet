@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:9984c4d56e80d45daae2d1e9bef8a192:03c1313f3621160c8ee4d970d6ba440d:86a3eb719c3b1b0b464bc721ac692c11$
+#
+:format=40000
+:texture=carouselitems.png
+:size=4096x4096
+
+bs c;1;3295;919;800;0.5;0.5
+bs s;922;3295;919;800;0.5;0.5
+bs u;1843;3295;919;800;0.5;0.5
+fbo c;2764;3295;919;800;0.5;0.5
+fbo s;1;2493;919;800;0.5;0.5
+fbo u;922;2493;919;800;0.5;0.5
+in c;1843;2493;919;800;0.5;0.5
+in s;2764;2493;919;800;0.5;0.5
+in u;1;1691;919;800;0.5;0.5
+mro c;922;1691;919;800;0.5;0.5
+mro s;1843;1691;919;800;0.5;0.5
+mro u;2764;1691;919;800;0.5;0.5
+na c;1;889;919;800;0.5;0.5
+na s;922;889;919;800;0.5;0.5
+na u;1843;889;919;800;0.5;0.5
+pa c;2764;889;919;800;0.5;0.5
+pa s;1;87;919;800;0.5;0.5
+pa u;922;87;919;800;0.5;0.5

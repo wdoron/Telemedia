@@ -1,0 +1,29 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/pages/carousel/items/carouselitems.tpsheet
+- Assets/Resources/media/transitions/t5/packed/packed.tpsheet
+- Assets/Resources/media/transitions/t1/packed/packed.tpsheet
+- Assets/Resources/media/transitions/t4/packed/packed.tpsheet
+- Assets/Resources/media/transitions/t3/packed/packed.tpsheet
+- Assets/Resources/media/transitions/t0/packed/packed.tpsheet
+- Assets/Resources/media/transitions/t2/packed/packed.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/pages/carousel/items/carouselitems.png
+- Assets/Resources/media/transitions/t5/packed/packed.png
+- Assets/Resources/media/transitions/t1/packed/packed.png
+- Assets/Resources/media/transitions/t4/packed/packed.png
+- Assets/Resources/media/transitions/t3/packed/packed.png
+- Assets/Resources/media/transitions/t0/packed/packed.png
+- Assets/Resources/media/transitions/t2/packed/packed.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 

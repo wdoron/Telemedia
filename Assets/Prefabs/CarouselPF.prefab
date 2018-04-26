@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: CarouselPF
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b12ea4d3748196f42bb0363a7a0a377e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 
+  BackgroundTexture: {fileID: 0}
+  EnterTime: 1
+  ExitTime: 1
+  StartEnterAnticipation: 0.5
+  CarouselPF: {fileID: 100000, guid: 317e89e3e23556e42b98a13f5b7e1c44, type: 2}
+  CarouselSpritePF: {fileID: 11400000, guid: 95c318c3edd9e9e4cacd160ab6dd5f11, type: 2}
+  BasePF: {fileID: 100000, guid: 8d37b85c043c457478da0ce7492ea715, type: 2}
+  ItemTextures:
+  - {fileID: 2800000, guid: 38c09606ae5bed744be580be2a0fa81d, type: 3}
+  - {fileID: 2800000, guid: 791d920272234d944b51b0814a2ee056, type: 3}
+  - {fileID: 2800000, guid: 81608c609384a3248965457f64f4aa65, type: 3}
+  - {fileID: 2800000, guid: f1b643910a5403b488a7264685ea707f, type: 3}
+  - {fileID: 2800000, guid: 98a4ffc48754bd24b973d43e4ea05ed0, type: 3}
+  - {fileID: 2800000, guid: 2e437012482d2824facb21a347ec040c, type: 3}
+  - {fileID: 2800000, guid: 6dfc055d765c882428b074171d3c6dc4, type: 3}
+  - {fileID: 2800000, guid: d4960a5f2f233b74d9b47b2dbb1fa1fd, type: 3}
+  - {fileID: 2800000, guid: e9fd1e9fe3c5ff3428043135d05a201f, type: 3}
+  - {fileID: 2800000, guid: 653a0bac430bea546ad5af1540770d68, type: 3}
+  - {fileID: 2800000, guid: 950407538e858ab4a8b2b292923a6661, type: 3}
+  - {fileID: 2800000, guid: 46ccd2922cb3f2841afb766ae40b07ac, type: 3}
+  - {fileID: 2800000, guid: c3886d0635de99d4284335f1677c6ca1, type: 3}
+  - {fileID: 2800000, guid: 8b2d911bb5bb7f642901e188c8742acd, type: 3}
+  - {fileID: 2800000, guid: 54050d8ee126d8e45a02ab781607b41f, type: 3}
+  - {fileID: 2800000, guid: 67379c8579a8be84495913c5ac9ec4af, type: 3}
+  - {fileID: 2800000, guid: f5f05487621bf604aaccc501bb1dbf74, type: 3}
+  - {fileID: 2800000, guid: e2fb006c0feb16b4b813860a895ead41, type: 3}
+  ItemSprites:
+  - {fileID: 21300000, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300002, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300004, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300006, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300008, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300010, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300012, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300014, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300016, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300018, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300020, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300022, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300024, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300026, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300028, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300030, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300032, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  - {fileID: 21300034, guid: 9ca1c649efcafb544840b3de74df57af, type: 3}
+  PlaneTexture: {fileID: 2800000, guid: 8f9bac54080d3cc48b89a5b14bb798f0, type: 3}
+  LargeLogoTexture: {fileID: 2800000, guid: cff1ec289bcf8774ca6c903b83ccd67d, type: 3}
+  dragGrace: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: ItemSprites.Array.size
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: CarouselSpritePF
+      value: 
+      objectReference: {fileID: 100000, guid: 95c318c3edd9e9e4cacd160ab6dd5f11, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: ManagementPF
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .178465843, y: .0382668152, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffa67f8877b5c024495473b5547d3dc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BGTtexture: {fileID: 2800000, guid: a0a5bca3c6d1dc841833f47349684b09, type: 3}
+  SliderTtexture: {fileID: 2800000, guid: f07ab6b7f256f854a903276c9ebfcc8d, type: 3}
+  TransparentText: {fileID: 0}
+  IsOpen: 0
+  ClientBackText: {fileID: 2800000, guid: f62a2636714dec64385c546476a4e014, type: 3}
+  MeetingBackText: {fileID: 2800000, guid: 283f8b48b315a2043a8a58e1c93a8804, type: 3}
+  LastSessionTexture: {fileID: 2800000, guid: 98868cb5c09ff024bb7e410ef62a2500, type: 3}
+  DotTexture: {fileID: 2800000, guid: 662f3cbf270b64d46b2dfb5ea5fb9cb9, type: 3}
+  SendAllText: {fileID: 2800000, guid: f7bebe72be4078d4cb5f70ae0ce1c5a8, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1

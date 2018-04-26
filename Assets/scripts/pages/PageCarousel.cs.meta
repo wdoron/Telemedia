@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b12ea4d3748196f42bb0363a7a0a377e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CarouselPF: {fileID: 100000, guid: 317e89e3e23556e42b98a13f5b7e1c44, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

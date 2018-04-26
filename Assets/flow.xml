@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<flow>
+  <!-- & =  &#38; CRLF = &#13;&#10-->
+  
+  <page id="root" type="carusel" title="You have individual needs.&#13;&#10;We offer individual solutions.">
+    <item dest="fbo"/>
+    <item dest="buysell"/>
+    <item dest="mro"/>
+    <item dest="upgrade"/>
+    <item dest="interior"/>
+    <item dest="painting"/>
+  </page>
+
+
+  <!--fbo-->
+
+
+  <page id="fbo" type="mainTopic">
+    <topmenu>
+      <item caption="VIP&#13;&#10;Services" dest="FBO_VIPServices"/>
+      <item caption="Pilot &#38; Crew&#13;&#10;Services" dest="FBO_PilotServices"/>
+      <item caption="Aircraft&#13;&#10;Services" dest="FBO_AircraftServices"/>
+      <item caption="Locations" dest="FBO_Locations"/>
+    </topmenu>
+    <sidemenu caption="FBO">
+      <item caption="Total privacy"/>
+      <item caption="Platinum VIP services"/>
+      <item caption="Ready when you are"/>
+    </sidemenu>
+  </page>
+  <page id="FBO_VIPServices" type="subTopic" path="FBO%VIP Services">
+    <items>
+      <item caption="Your individual needs receive our individual attention and solutions"/>
+      <item caption="We welcome you anytime "/>
+      <item caption="Our service team is committed to ensure your total satisfaction"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="FBO_VIP_Services"/>
+      <button caption="Gallery" dest="FBO_VIP_Examples"/>
+    </navigation>
+  </page>
+  <page id="FBO_PilotServices" type="subTopic" path="FBO%Pilot &#38; Crew Services">
+    <items>
+      <item caption="Ensuring a relaxing environment"/>
+      <item caption="Helping prepare everything for your next trip"/>
+      <item caption="Making your stay enjoyable"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="FBO_pilotCrew_Services"/>
+      <button caption="Gallery" dest="FBO_pilotCrew_Examples"/>
+    </navigation>
+  </page>
+  <page id="FBO_AircraftServices" type="subTopic" path="FBO%Aircraft Services">
+    <items>
+      <item caption="Keeping your aircraft in shape and ready for you with our ramp and fuel services"/>
+      <item caption="Taking care of technical issues"/>
+      <item caption="We provide the services that keep you in the air"/>
+      <item caption="Your aircraft will be ready to go when you are "/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="FBO_AircraftServices_Services"/>
+      <button caption="Gallery" dest="FBO_AircraftServices_Examples"/>
+    </navigation>
+  </page>
+  <page id="FBO_VIP_Services" type="checkList" path="FBO%VIP Services%Services" owner="FBO">
+    <col>
+      <item caption="Passenger transfers"/>
+      <item caption="Limousine service at your aircraft"/>
+      <item caption="Customs and immigration"/>
+      <item caption="Luggage service"/>
+      <item caption="VIP lounges, conference and meeting rooms"/>
+      <item caption="Aircraft security service"/>
+      <item caption="Catering service"/>
+      <item caption="Jet and helicopter arrangements"/>
+      <item caption="Support in organising accommodation"/>
+      <item caption="_"/>
+    </col>
+    
+  </page>
+  <page id="FBO_VIP_Examples" type="gallery" path="FBO%VIP Services%Gallery">
+  </page>
+  <page id="FBO_pilotCrew_Services" type="checkList" path="FBO%Pilot &#38; Crew Services%Services" owner="FBO">
+    <col>
+      <item caption="Crew transport service"/>
+      <item caption="Crew lounge"/>
+      <item caption="Free WiFi "/>
+      <item caption="Workstation"/>
+      <item caption="Catering service"/>
+      <item caption="Car park, car rental"/>
+    </col>
+    <col>
+      <item caption="Jet charter"/>
+      <item caption="Kitchenette"/>
+      <item caption="Airport and airways slot coordination; Permissions"/>
+      <item caption="Flight plan support"/>
+      <item caption="Weather information and NOTAMs"/>
+      <item caption="_"/>
+    </col>
+  </page>
+  <page id="FBO_pilotCrew_Examples" type="gallery" path="FBO%Pilot &#38; Crew Services%Gallery">
+  </page>
+  <page id="FBO_AircraftServices_Services" type="checkList" path="FBO%Aircraft Services%Services" owner="FBO">
+    <col>
+      <item caption="Pre- &#38; post-flight services"/>
+      <item caption="Pushback &#38; aircraft parking"/>
+      <item caption="Water, lavatory &#38; GPU service"/>
+      <item caption="Aircraft cleaning"/>
+      <item caption="Fuelling"/>
+      <item caption="De-icing"/>
+    </col>
+    <col>
+      <item caption="Engine &#38; APU oil check"/>
+      <item caption="Oxygen &#38; hydraulic refill"/>
+      <item caption="Tyre pressure check"/>
+      <item caption="AOG support"/>
+      <item caption="_"/>
+    </col>
+  </page>
+  <page id="FBO_AircraftServices_Examples" type="gallery" path="FBO%Aircraft Services%Gallery">
+  </page>
+  <page id="FBO_Locations" type="fbomap" path="FBO%Locations - in the heart of Europe."> 
+  </page>
+  <page id="FboLocations1" type="gallery" path="FBO%Locations%Geneva">
+  </page>
+  <page id="FboLocations2" type="gallery" path="FBO%Locations%Lugano">
+  </page>
+  <page id="FboLocations3" type="gallery" path="FBO%Locations%Munich">
+  </page>
+
+  <!--buy sell-->
+
+  <page id="buysell" type="mainTopic">
+    <topmenu>
+      <item caption="Success&#13;&#10;Stories" dest="BuySell_SuccessStories" width="153"/>
+      <item caption="Buying Support&#13;&#10;Services" dest="BuySell_BuyingServices" width="191"/>
+      <item caption="Selling Support&#13;&#10;Services" dest="BuySell_SellingServices" width="190"/>
+      <item caption="Project&#13;&#10;Management" dest="BuySell_ProjectManagement" width="177"/>
+    </topmenu>
+    <sidemenu caption="Buying &#38; Selling&#13;&#10;Services Support">
+      <item caption="Key critical moment"/>
+      <item caption="RUAG is your reliable partner"/>
+      <item caption="Managing the risk of buying and selling"/>
+      <item caption="Handling the whole buying and selling process"/>
+      <item caption="Benefit from our comprehensive market&#13;&#10;experience and strong network"/>
+    </sidemenu>
+  </page>
+  <page id="BuySell_SuccessStories" type="successStory" path="Buying &#38; Selling%Success Story%Buying and Reselling&#13;&#10;Skywork Dornier 328." startY="455">
+    <items>
+      <collumn>
+        <item caption="Turnkey package"/>
+        <item caption="Identification of aircraft&#13;&#10;on the market"/>
+        <item caption="MRO and upgrades totalling&#13;&#10;3,500 hours within 5 weeks"/>
+      </collumn>
+      <collumn>
+        <item caption="Cost evaluation"/>
+        <item caption="Fixed price offer and firm&#13;&#10;delivery date"/>
+        <item caption="New paint livery according to&#13;&#10;customers requirements"/>
+      </collumn>
+      <collumn>
+        <item caption="Pre-purchase inspection"/>
+        <item caption="Ferry flight and its organisation"/>
+        <item caption="Interior refurbishment according&#13;&#10;to company design guidelines"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="BuySell_BuyingServices" type="subTopic" path="Buying &#38; Selling%Buying Support Services">
+    <items>
+      <item caption="Identifying  and evaluating your desired aircraft on the market"/>
+      <item caption="Consultancy services for inspections, legal aspects, ferry flights, registration change, etc."/>
+      <item caption="Assessment, risk and project management by experienced personnel with&#13;&#10;deep market knowledge"/>
+      <item caption="Modifications of the aircraft to meet your expectations"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="BuySell_BuyServices_Services"/>
+      <button caption="Gallery" dest="BuySell_BuyServices_Examples"/>
+    </navigation>
+  </page>
+  <page id="BuySell_BuyServices_Services" type="checkList" path="Buying  &#38; Selling%Buying Support Services%Services" owner="Buying &#38; Selling">
+    <col>
+      <item caption="Pre-purchase inspection">
+        <item caption="Detailed paper check"/>
+        <item caption="Borescope inspection"/>
+        <item caption="Technical inspection"/>
+      </item>
+      
+      <item caption="Quotes for maintenance package"/>
+      <item caption="Identification &#38; evaluation of desired aircraft on the market"/>
+      <item caption="Quotes for customised modifications according to customer requirements"/>
+      <item caption="Organisation of ferry flights (pilots &#38; insurance)"/>
+      <item caption="Support on change of registration of aircraft"/>
+    </col>
+    <col>
+      <item caption="Legal aspects">
+        <item caption="Letter of Intent (LOI)"/>
+        <item caption="Purchase Agreement / Contracts"/>
+        <item caption="ESCROW Agreement"/>
+      </item>
+    </col>
+  </page>
+  <page id="BuySell_BuyServices_Examples" type="gallery" path="Buying  &#38; Selling%Buying Support Services%Gallery">
+  </page>
+  <page id="BuySell_SellingServices" type="subTopic" path="Buying &#38; Selling%Selling Support Services">
+    <items>
+      <item caption="Helping you find the best possible resale price for your aircraft"/>
+      <item caption="Consultancy services for inspections, legal aspects, ferry flights, registration change, etc."/>
+      <item caption="Modification of your aircraft to better meet the market demand"/>
+      <item caption="Deep technical experience, extensive market know-how and a strong network&#13;&#10;of OEM, operators, brokers and owners "/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="BuySell_SellServices_Services"/>
+      <button caption="Gallery" dest="BuySell_SellServices_Examples"/>
+    </navigation>
+  </page>
+  <page id="BuySell_SellServices_Services" type="checkList" path="Buying  &#38; Selling%Selling Support Services%Services" owner="Buying &#38; Selling">
+    <col>
+      <item caption="Pre-purchase inspection for potential buyer">
+        <item caption="Detailed paper check"/>
+        <item caption="Borescope inspection"/>
+        <item caption="Technical inspection"/>
+      </item>
+      <item caption="Identification &#38; evaluation of potential clients on the market"/>
+      <item caption="Quotes for maintenance package to make aircraft suitable for the current market situation"/>
+      <item caption="Organisation of ferry flights (pilots &#38; insurance)"/>
+      <item caption="Support on change of registration of aircraft"/>
+    </col>
+    <col>
+      <item caption="Legal aspects">
+        <item caption="Letter of Intent (LOI)"/>
+        <item caption="Purchase Agreement / Contracts"/>
+        <item caption="ESCROW Agreement"/>
+      </item>
+    </col>
+  </page>
+  <page id="BuySell_SellServices_Examples" type="gallery" path="Buying  &#38; Selling%Selling Support Services%Gallery">
+  </page>
+  <page id="BuySell_ProjectManagement" type="subTopic" path="Buying &#38; Selling%Project Management">
+    <items>
+      <item caption="Our goal is to always understand your needs and to create an individual solution for you"/>
+      <item caption="We offer complete project management, from identification of the desired aircraft&#13;&#10;through to delivery"/>
+      <item caption="Making your project transparent and managing risks according to your requirements"/>
+    </items>
+    <navigation>
+      <button caption="Gallery" dest="BuySell_ProjectManagement_Examples"/>
+    </navigation>
+  </page>
+  <page id="BuySell_ProjectManagement_Examples" type="gallery" path="Buying  &#38; Selling%Project Management%Gallery">
+  </page>
+
+
+  <!--mro-->
+  <page id="mro" type="mainTopic">
+    <topmenu>
+      <item caption="Success&#13;&#10;Stories" dest="MRO_SuccessStories"/>
+      <item caption="Type&#13;&#10;Ratings" dest="MRO_TypeRatings"/>
+      <item caption="Services" dest="MRO_Services"/>
+      <item caption="Gallery" dest="MRO_Gallery"/>
+    </topmenu>
+    <sidemenu caption="MRO">
+      <item caption="Short turnaround times"/>
+      <item caption="Platinum service quality"/>
+      <item caption="Individual unique MRO services"/>
+      <item caption="Transparent project management"/>
+    </sidemenu>
+  </page>
+  <page id="MRO_SuccessStories" type="gallery" path="MRO%Success Stories">
+    <item dest="MRO_SS1"/>
+    <item dest="MRO_SS2"/>
+    <item dest="MRO_SS3"/>
+    <item dest="MRO_SS4"/>
+  </page>
+  <page id="MRO_SS1" type="successStory" path="MRO%Success Story%C4 check of Falcon 900&#13;&#10;including system upgrades." startY="455">
+    <items>
+      <collumn>
+        <item caption="Major repair work on 24-year-old aircraft due to "/>
+        <item caption="-corrosion damage including its structural components"/>
+        <item caption="-erosion on the edges of the vertical and horizontal stabilisers"/>
+        <item caption="Complete cabin interior upgrade"/>
+        <item caption="Modern information and communications system equipped with WLAN access and wide-screen monitors"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="MRO_SS2" type="successStory" path="MRO%Success Story%D-Check on Piaggio P180 Avanti." startY="400">
+    <items>
+      <collumn>
+        <item caption="Overhaul of both Pratt &#38; Whitney Canada PT6A engines"/>
+        <item caption="Repairs were carried out on the aircraft fuselage"/>
+        <item caption="Inspection of the aircraft’s avionics and electrical wiring systems, with repairs"/>
+        <item caption="Inspection and testing of aircraft components - in-house"/>
+        <item caption="Full carpet replacement along with a minor refurbishment of its interior"/>
+        <item caption="Paint touch-up of its exterior livery"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="MRO_SS3" type="successStory" path="MRO%Success Story%8C check of Bombardier Global at our one stop-shop." startY="400">
+    <items>
+      <collumn>
+        <item caption="8C check, cabin refurbishment and full painting"/>
+        <item caption="In only 12 weeks downtime"/>
+        <item caption="First the external paint was removed from the aircraft"/>
+        <item caption="Before maintenance the complete cabin interior was removed for refurbishment - at&#13;&#10;the same time as the 8C-Check"/>
+        <item caption="During the work on the structure and systems, the landing gears was also fully overhauled"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="MRO_SS4" type="successStory" path="MRO%Success Story%Twin Otter re-life project" startY="400">
+    <items>
+      <collumn>
+        <item caption="Corrosion repairs on the wings of a 33-year-old DHC-6 Twin Otter "/>
+        <item caption="Improving the aircraft’s safety and life cycle for a further 33,000 flight hours "/>
+        <item caption="Enabling the customer to avoid the unnecessary costs and downtime of complete wing replacements "/>
+        <item caption="New modern avionics"/>
+        <item caption="Re-life STC "/>
+      </collumn>
+    </items>
+  </page>
+  <page id="MRO_TypeRatings" type="gallery" path="MRO%Type Ratings">
+    <item dest="MRO_TR" extra="0"/>
+    <item dest="MRO_TR" extra="1"/>
+    <item dest="MRO_TR" extra="2"/>
+    <item dest="MRO_TR" extra="3"/>
+    <item dest="MRO_TR" extra="4"/>
+    <item dest="MRO_TR" extra="5"/>
+    <item dest="MRO_TR" extra="6"/>
+    <item dest="MRO_TR" extra="7"/>
+    <item dest="MRO_TR" extra="8"/>
+    <item dest="MRO_TR" extra="9"/>
+    <item dest="MRO_TR" extra="10"/>
+    <item dest="MRO_TR" extra="11"/>    
+  </page>
+  <page id="MRO_TR" type="typeRating" path="MRO%Type Ratings">
+    <rating caption="Bombardier"/>
+    <rating caption="Cessna"/>
+    <rating caption="Dassault Falcon"/>
+    <rating caption="Dornier 228"/>
+    <rating caption="Dornier 328"/>
+    <rating caption="Embraer"/>
+    <rating caption="Hawker Beechcraft"/>
+    <rating caption="Viking"/>
+    <rating caption="Piaggio"/>
+    <rating caption="Pilatus"/>
+    <rating caption="VIP Helicopters"/>
+    <rating caption="General Aviation"/>
+  </page>
+  <page id="MRO_Services" type="checkList" path="MRO%Services" owner="MRO">
+    <col>
+      <item caption="Line Maintenance"/>
+      <item caption="Base Maintenance">
+        <item caption="Unscheduled maintenance"/>
+        <item caption="Scheduled maintenance"/>
+        <item caption="_"/>
+        <item caption="Corrosion &#38; structural repairs,&#13;&#10;extended/heavy capabilities"/>
+      </item>
+      <item caption="Modification  &#38; Service Bulletin"/>
+      <item caption="AOG Service"/>
+    </col>
+    <col>
+      <item caption="Components">
+        <item caption="Engines (Major Service Center)"/>
+        <item caption="Avionics (Authorised Dealer &#38; Service Center)"/>
+        <item caption="Landing Gears (Service Center)"/>
+        <item caption="Brakes &#38; Wheels"/>
+        <item caption="Generators (Service Center)"/>
+      </item>
+      <item caption="Non-Destructive Testing (up to Level 3)"/>
+    </col>
+  </page>
+  <page id="MRO_Gallery" type="gallery" path="MRO%Gallery">
+  </page>
+
+    <!--upgrade-->
+  
+  <page id="upgrade" type="mainTopic">
+    <topmenu>
+      <item caption="Success&#13;&#10;Stories" dest="upgrade_SuccessStories"/>
+      <item caption="Flight Deck&#13;&#10;Upgrade" dest="upgrade_Flight_Deck_Upgrades"/>
+      <item caption="Safety Systems&#13;&#10;&#38; Equipment" dest="upgradesafety"/>
+      <item caption="Cabin IFE&#13;&#10;&#38; Communication" dest="interiorInflightEntertainment"/>
+      <item caption="Structural&#13;&#10;Upgrades" dest="upgrade_structural"/>
+      <item caption="Approval &#38; Certification&#13;&#10;Services" dest="upgrade_Approval"/>
+    </topmenu>
+    <sidemenu caption="System Upgrades">
+      <item caption="Dedicated to safety"/>
+      <item caption="Extensive range of the most advanced&#13;&#10;retrofit solutions"/>
+      <item caption="Our focus is your individual requirements"/>
+      <item caption="Qualifications, experience and skilled staff"/>
+      <item caption="Authorised to perform and certify&#13;&#10;minor and major modifications "/>
+    </sidemenu>
+  </page>
+  <page id="upgrade_SuccessStories" type="gallery" path="System Upgrades%Success Stories">
+    <item dest="upgrade_structural_ss1"/>
+    <item dest="upgrade_structural_ss2"/>
+    <item dest="upgrade_FlightDeck_SS"/>
+  </page>
+  <page id="upgrade_Flight_Deck_Upgrades" type="subTopic" path="System Upgrades%Flight Deck Upgrades">
+    <items>
+      <item caption="Improving flight safety and situational awareness"/>
+      <item caption="Maintaining and increasing your aircraft's value"/>
+      <item caption="Keeping up with changing regulation"/>
+      <item caption="Reducing cockpit workload"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="upgrade_FlightDeck_Services"/>
+      <button caption="Gallery" dest="upgrade_FlightDeck_Examples"/>
+      <button caption="Success&#13;&#10;Story" dest="upgrade_FlightDeck_SS"/>
+    </navigation>
+  </page>
+  <page id="upgrade_FlightDeck_Services" type="checkList" path="System Upgrades%Flight Deck Upgrades%Services" owner="System upgrade">
+    <col>
+      <item caption="Cockpit redesign"/>
+      <item caption="Paperless upgrade"/>
+      <item caption="Flight management upgrades"/>
+      <item caption="Navigation upgrades"/>
+      <item caption="Guides system upgrades"/>
+      <item caption="Safety system upgrades"/>
+      <item caption="Communication system upgrades"/>
+      <item caption="Enhanced vision systems"/>
+      <item caption="Mode S transponder (ADSB)"/>
+      <item caption="_"/>
+    </col>
+  </page>
+  <page id="upgrade_FlightDeck_Examples" type="gallery" path="System Upgrades%Flight Deck Upgrades%Gallery">
+  </page>
+  <page id="upgradesafety" type="subTopic" path="System Upgrades %Safety Systems &#38; Equipment">
+    <items>
+      <item caption="We upgrade equipment to improve flight safety"/>
+      <item caption="Flight data monitoring, flight data analysis and safety training recommendation"/>
+      <item caption="Integrating health and usage monitoring systems (HUMS)"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="upgrade_Safety_Services"/>
+      <button caption="Gallery" dest="upgrade_Safety_Examples"/>
+    </navigation>
+  </page>
+  <page id="upgrade_Safety_Services" type="checkList" path="System Upgrades%Safety Systems &#38; Equipment%Services" owner="System upgrade">
+    <col>
+      <item caption="Enhanced ground proximity warning system (EGPWS)"/>
+      <item caption="Traffic collision alerting system (TCAS)"/>
+      <item caption="Electronic flight bag (EFB)"/>
+      <item caption="Safe taxi and landing systems"/>
+      <item caption="Flight data monitoring (FDM) service"/>
+      <item caption="_"/>
+    </col>
+  </page>
+  <page id="upgrade_Safety_Examples" type="gallery" path="System Upgrades%Safety Systems &#38; Equipment%Gallery">
+  </page>
+  <page id="upgrade_structural" type="subTopic" path="System Upgrades%Structural Upgrades">
+    <items>
+      <item caption="Comprehensive in-house engineering capabilities based on extensive experience"/>
+      <item caption="EASA-approved design and production organisation (DOA/ POA)"/>
+      <item caption="Lean development processes thanks to deep know-how"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="upgrade_structural_Services"/>
+      <button caption="Gallery" dest="upgrade_structural_Examples"/>
+      <button caption="Success Story" subCaption="HALO" dest="upgrade_structural_ss2"/>
+      <button caption="Success Story" subCaption="Aerial Survey" dest="upgrade_structural_ss1"/>
+      <button caption="STC" subCaption="Certification&#13;&#10;Database" dest="upgrade_certificate"/>
+    </navigation>
+  </page>
+  <page id="upgrade_certificate" type="certDB" path="System Upgrades%Approval &#38; Cert. Cervices%STC Certification Database">
+  </page>
+  <page id="upgrade_structural_Services" type="checkList" path="System Upgrades%Structural Upgrades%Services" owner="System upgrade">
+    <col>
+      <item caption="Fuselage cutouts"/>
+      <item caption="Installation of SATCOM systems"/>
+      <item caption="Nose masts"/>
+      <item caption="Modification of tail cones and wings"/>
+      <item caption="Integration of attachment points for external stores"/>
+      <item caption="Winglet installation"/>
+      <item caption="_"/>
+    </col>
+  </page>
+  <page id="upgrade_structural_Examples" type="gallery" path="System Upgrades%Structural Upgrades%Gallery">
+  </page>
+  <page id="upgrade_structural_ss1" type="successStory" path="System Upgrades%Success Story%PC-12 Aerial Survey.&#13;&#10;Installation of photogrammetry equipment." startY="440">
+    <items>
+      <collumn>
+        <item caption="Installation LIDAR and photogrammetry equipment for aerial surveying purposes"/>
+        <item caption="multi-role configuration enables easy installation of floor panels in place of the hatches"/>
+        <item caption="enabling your PC-12 to be used for regular cargo or transport purposes"/>
+        <item caption="PC-12 economical and reliable platform with long range and versatility"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="upgrade_structural_ss2" type="successStory" path="System Upgrades%Success Story%HALO – High Altitude and&#13;&#10;Long Range Research Aircraft" startY="420">
+    <items>
+      <collumn>
+        <item caption="Modification of Gulfstream G550 to"/>
+        <item caption="Creating a platform for airborne atmospheric&#13;&#10;science and earth observation"/>
+        <item caption="Major structural as well as system modifications,&#13;&#10;engineering and certification support"/>
+      </collumn>
+      <collumn>
+        <item caption="HALO aircraft has a very long range and endurance"/>
+        <item caption="High ceiling altitude and large instrument load&#13;&#10;capacities"/>
+        <item caption="These characteristics can not be found on any&#13;&#10;other research aircraft in Europe."/>
+      </collumn>
+    </items>
+  </page>
+  <page id="upgrade_FlightDeck_SS" type="successStory" path="System Upgrades%Success Story%New avionics STC for&#13;&#10;Dual Garmin G600" startY="430">
+    <items>
+      <collumn>
+        <item caption="New STC for Viking DHC-6 Twin Otter Series 300"/>
+        <item caption="Avionics upgrade including electronic stand-by instrumentation, synthetic vision, terrain awareness, TCAS as&#13;&#10;well as other information systems (WX, EFB etc.)"/>
+        <item caption="Securing the highest possible level of situational awareness for pilots "/>
+        <item caption="Reliable solution for improving the safety and life cycle of their aircraft "/>
+      </collumn>
+    </items>
+  </page>
+  <page id="upgrade_Approval" type="subTopic" path="System Upgrades%Approval &#38; Certification Services">
+    <items>
+      <item caption="RUAG Aviation is an EASA-approved Design and Production Organisation (DOA / POA)"/>
+      <item caption="Authorised to "/>
+      <item caption="-carry out Minor and Major Modifications"/>
+      <item caption="-Certification of Minor Modifications"/>
+    </items>
+    <navigation>
+      <button caption="Gallery" dest="upgrade_Approval_Examples"/>
+      <button caption="STC" subCaption="Certification&#13;&#10;Database" dest="upgrade_certificate"/>
+      <button caption="Success Story" subCaption="Aerial Survey" dest="upgrade_structural_ss1"/>
+      <button caption="Success Story" subCaption="Avionics Upgrade – Dual&#13;&#10;Garmin G600" dest="upgrade_FlightDeck_SS"/>
+    </navigation>
+  </page>
+  <page id="upgrade_Approval_Examples" type="gallery" path="System Upgrades%Approval &#38; Cert. Services%Gallery">
+  </page>
+
+
+  <!--interiior-->
+
+  <page id="interior" type="mainTopic">
+    <topmenu>
+      <item caption="Success&#13;&#10;Stories" dest="interiorSuccessStories"/>
+      <item caption="Interior Design &#38;&#13;&#10;Passenger Comfort" dest="Interior_DesignPassengerComfort"/>
+      <item caption="Interior&#13;&#10;Modifications" dest="InteriorModifications"/>
+      <item caption="In-flight&#13;&#10;Entertainment" dest="interiorInflightEntertainment"/>
+      <item caption="Cabin&#13;&#10;Communication" dest="InteriorCabinCommunication"/>
+    </topmenu>
+    <sidemenu caption="Cabin Interior">
+      <item caption="Express your style"/>
+      <item caption="Platinum Class quality"/>
+      <item caption="Together we make it happen"/>
+    </sidemenu>
+  </page>
+  <page id="interiorSuccessStories" type="successStory" path="Cabin interior%Success Story%VIP cabin interior completion project." startY="400">
+    <items>
+      <collumn>
+        <item caption="Overhaul of entire layout configuration and  interior design"/>
+        <item caption="Modification of electronics system to create a modern and comfortable environment for up to ten passengers"/>
+        <item caption="Installation of latest in-flight entertainment systems"/>
+        <item caption="Including  browser-based application that allows passengers to control audio, video, cabin lighting&#13;&#10;and the electric window shades via their tablets or smartphones – wireless."/>
+      </collumn>
+    </items>
+  </page>
+  <page id="Interior_DesignPassengerComfort" type="subTopic" path="Cabin Interior%Interior Design &#38; Passenger Comfort">
+    <items>
+      <item caption="Your cabin – for work &#38; relaxation"/>
+      <item caption="Cabin design solutions that perfectly combine aesthetics and functionality"/>
+      <item caption="Solutions tailored to your individual style and requirements"/>
+      <item caption="Partnering to give you the best possible design choices"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="Interior_PassengerComfort_Services"/>
+      <button caption="Gallery" dest="Interior_PassengerComfort_Examples"/>
+    </navigation>
+  </page>
+  <page id="Interior_PassengerComfort_Services" type="checkList" path="Cabin Interior%Interior Design &#38; Passenger Comfort%Services" owner="Cabin interior">
+    <col>
+      <item caption="Cabin interior restyling">
+        <item caption="Material trim and finish"/>
+        <item caption="Exclusive, modern materials"/>
+        <item caption="Intelligent functionality"/>
+        <item caption="Comfort, spaciousness"/>
+        <item caption="Staff seating area"/>
+        <item caption="Working galley"/>
+        <item caption="Massage functions"/>
+        <item caption="IFE &#38; communication systems"/>
+      </item>
+    </col>
+    <col>
+      <item caption="Cabin mood lighting"/>
+      <item caption="Cabin noise reduction"/>
+    </col>
+  </page>
+  <page id="Interior_PassengerComfort_Examples" type="gallery" path="Cabin Interior%Interior Design  &#38; Passenger  Comfort%Gallery">
+  </page>
+  <page id="InteriorModifications" type="subTopic" path="Cabin Interior%Interior Modifications">
+    <items>
+      <item caption="A small touch-up or a major refurbishment"/>
+      <item caption="Premium quality – revitalising your cabin"/>
+      <item caption="On time and on budget"/>
+      <item caption="Fine craftsmanship"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="CabinInterior_InteriorModification_Services"/>
+      <button caption="Gallery" dest="CabinInterior_InteriorModification_Examples"/>
+    </navigation>
+  </page>
+  <page id="CabinInterior_InteriorModification_Services" type="checkList" path="Cabin Interior%Interior Modifications%Services" owner="Cabin interior">
+    <col>
+      <item caption="full cabin refurbishment"/>
+      <item caption="retrofit">
+        <item caption="cabinetry"/>
+        <item caption="seat upholstery"/>
+        <item caption="sidewalls and ceiling"/>
+        <item caption="carpet and soft material design"/>
+        <item caption="installation / modification of cabin systems"/>
+        <item caption="_"/>
+      </item>
+    </col>
+  </page>
+  <page id="CabinInterior_InteriorModification_Examples" type="gallery" path="Cabin Interior%Interior Modifications%Gallery">
+  </page>
+  <page id="InteriorCabinCommunication" type="subTopic" path="Cabin Interior%Cabin Communication">
+    <items>
+      <item caption="Use all communication devices just as you would at home"/>
+      <item caption="Addresses your individual communication requirements"/>
+      <item caption="State-of-the-art communication systems"/>
+      <item caption="From small upgrades to completely new installations"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="Interior_CabinCommunication_Services"/>
+      <button caption="Gallery" dest="Interior_CabinCommunication_Examples"/>
+      <button caption="STC" subCaption="Certification&#13;&#10;Database" dest="upgrade_certificate"/>
+    </navigation>
+  </page>
+  <page id="Interior_CabinCommunication_Services" type="checkList" path="Cabin Interior%Cabin Communication%Services" owner="Cabin interior">
+    <col>
+      <item caption="High-speed broadband internet">
+        <item caption="GSM mobile applications"/>
+        <item caption="wireless LAN WiFi options"/>
+        <item caption="SATCOM installation"/>
+        <item caption="SMS, messaging and fax"/>
+        <item caption="other communication systems"/>
+        <item caption="_"/>
+      </item>
+    </col>
+  </page>
+  <page id="Interior_CabinCommunication_Examples" type="gallery" path="Cabin Interior%Cabin Communication%Gallery">
+  </page>
+  <page id="interiorInflightEntertainment" type="subTopic" path="Cabin Interior%In-Flight Entertainment (IFE)">
+    <items>
+      <item caption="Make flying fun"/>
+      <item caption="Customise the entertainment system to your individual preferences"/>
+      <item caption="From small modifications to full scale upgrades"/>
+    </items>
+    <navigation>
+      <button caption="Services  &#38;&#13;&#10;Products" dest="Interior_InflightEntertainment_Services"/>
+      <button caption="Gallery" dest="Interior_InflightEntertainment_Examples"/>
+    </navigation>
+  </page>
+  <page id="Interior_InflightEntertainment_Services" type="checkList" path="Cabin Interior%IFE%Services" owner="Cabin interior">
+    <col>
+      <item caption="Audio / video on demand (AVOD)"/>
+      <item caption="Internet routing networks"/>
+      <item caption="Media storage servers"/>
+      <item caption="Movies and audio applications"/>
+      <item caption="Multimedia integration"/>
+      <item caption="Passenger portable devices"/>
+      <item caption="System control app design and implementation for smartphones and tablets"/>
+      <item caption="Quality sound systems"/>
+      <item caption="_"/>
+    </col>
+  </page>
+  <page id="Interior_InflightEntertainment_Examples" type="gallery" path="Cabin Interior%IFE%Gallery">
+  </page>
+
+
+  <!--painting-->
+
+  <page id="painting" type="mainTopic">
+    <topmenu>
+      <item caption="Success&#13;&#10;Stories" dest="paint_SuccessStories"/>
+      <item caption="Consultancy, Design&#13;&#10;&#38; Colour Services" dest="paint_Consultancy"/>
+      <item caption="Aircraft&#13;&#10;Painting " dest="paint_aircrraft"/>
+      <item caption="Cutting-edge&#13;&#10;Facilities" dest="paint_cutting_edge"/>
+      <item caption="Enviromental&#13;&#10;Considerations" dest="painting_Environmental"/>
+    </topmenu>
+    <sidemenu caption="Painting">
+      <item caption="First impressions count&#13;&#10;Shine with our premium aircraft painting"/>
+      <item caption="Platinum aircraft painting quality"/>
+      <item caption="Protects and preserves the aircraft's value"/>
+      <item caption="Together we will get it right"/>
+    </sidemenu>
+  </page>
+  <page id="paint_SuccessStories" type="successStory" path="Painting%Success Story%A unique paint design project&#13;&#10;on a Global 5000." startY="450">
+    <items>
+      <collumn>
+        <item caption="Cooperation  between RUAG Aviation, Happy&#13;&#10;Design Studio and AkzoNobel"/>
+        <item caption="Fading effects over whole fuselage from white&#13;&#10;to gold and grey"/>
+        <item caption="Lines as small as 6 mm"/>
+      </collumn>
+      <collumn>
+        <item caption="2300 Mhrs in 4 weeks in three shift system"/>
+        <item caption="Owner’s statement"/>
+        <item caption="- impeccable design"/>
+        <item caption="- truly impressive workmanship down to the smallest detail"/>
+        <item caption="- short turnaround time"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="paint_Consultancy" type="subTopic" path="Painting%Consultancy, Design &#38; Colour Services">
+    <items>
+      <item caption="Whatever you desire – subtle, simple, or intricate – we will deliver it"/>
+      <item caption="Partnering for design creations, opening up possibilities for you to obtain exactly the design you desire"/>
+      <item caption="Anywhere in the world – we will visit you and your aircraft"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="Painting_Consultancy_Services"/>
+      <button caption="Gallery" dest="Painting_Consultancy_Examples"/>
+      <button caption="Paint&#13;&#10;Configurator" dest="Painting_PaintConigurator"/>
+    </navigation>
+    <page id="Painting_PaintConigurator" type="gallery" path="Painting%Consultancy, Design  &#38; Colour Services%Paint Configurator">
+    </page>
+  </page>
+  <page id="Painting_Consultancy_Services" type="checkList" path="Painting%Consultancy, Design &#38; Colour%Services" owner="Painting">
+    <col>
+      <item caption="Consultancy and advice"/>
+      <item caption="Coloured renderings"/>
+      <item caption="2-D proposals"/>
+      <item caption="3-D animations"/>
+      <item caption="Technical drawings"/>
+      <item caption="Material selection"/>
+      <item caption="Fading, photorealistic, metallic and mica-paints"/>
+    </col>
+    <col>
+      <item caption="Process definition"/>
+      <item caption="Preparation and documentation"/>
+      <item caption="Definition of quality standards"/>
+      <item caption="Paint evaluations and reporting"/>
+      <item caption="Field service"/>
+      <item caption="Monitoring"/>
+    </col>
+  </page>
+  <page id="Painting_Consultancy_Examples" type="gallery" path="Painting%Consultancy, Design  &#38; Colour Services%Gallery">
+  </page>
+  <page id="paint_aircrraft" type="subTopic" path="Painting%Aircraft Painting">
+    <items>
+      <item caption="From a small touch-up to a complete new livery"/>
+      <item caption="Display your style and your corporate identity while protecting your aircraft"/>
+      <item caption="Craftsmanship you can rely on"/>
+    </items>
+    <navigation>
+      <button caption="Services" dest="paint_aircrraft_Services"/>
+      <button caption="Gallery" dest="Painting_aircrraft_Examples"/>
+      <button caption="Success Story" subCaption="Learjets" dest="Painting_aircrraft_ss2"/>
+      <button caption="Success Story" subCaption="Rega" dest="Painting_aircrraft_ss1"/>
+    </navigation>
+  </page>
+  <page id="paint_aircrraft_Services" type="checkList" path="Painting%Aircraft Painting%Services" owner="Painting">
+    <col>
+      <item caption="Chemical stripping"/>
+      <item caption="Abrasive paint removal"/>
+      <item caption="Seal-work"/>
+      <item caption="Painting"/>
+      <item caption="Clearcoat application, teflon coating"/>
+      <item caption="Technical and mandatory marking"/>
+      <item caption="And more"/>
+    </col>
+  </page>
+  <page id="Painting_aircrraft_Examples" type="gallery" path="Painting%Aircraft Painting%Gallery">
+  </page>
+  <page id="Painting_aircrraft_ss1" type="successStory" path="Painting%Aircraft Painting%Success Story%A new look for 3 Rega Ambulance Jets." startY="400">
+    <items>
+      <collumn>
+        <item caption="Three “Canadair CL 604 Challenger” ambulance&#13;&#10;jets belonging to the Swiss air rescue service Rega"/>
+        <item caption="New paintwork, new design"/>
+        <item caption="-Applied using the Aviox 3K paint system"/>
+        <item caption="-Approximately 55 kilograms of paint"/>
+      </collumn>
+      <collumn>
+        <item caption="Turnaround time of only 15 days"/>
+        <item caption="-15 employees"/>
+        <item caption="-six weekdays"/>
+        <item caption="-two-shift operation"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="Painting_aircrraft_ss2" type="successStory" path="Painting%Aircraft Painting%Success Story%Redesign and paint of 13 Learjets." startY="400">
+    <items>
+      <collumn>
+        <item caption="Redesign and painting of 13 GFD Learjets"/>
+        <item caption="GFD mainly carries out aerial target simulations"/>
+        <item caption="New design improves aircraft’s visibility in all weather&#13;&#10;and background conditions and aircraft positions"/>
+      </collumn>
+      <collumn>
+        <item caption="Incorporate the GFD company colours in the new design"/>
+        <item caption="Select a visually and technically superior paint system,&#13;&#10;taking into consideration its range of operations"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="paint_cutting_edge" type="subTopic" path="Painting%Cutting-Edge Facilities">
+    <items>
+      <item caption="State-of-the –art equipment allowing us to provide you with the necessary flexibility"/>
+      <item caption="Reducing / optimising your downtime"/>
+      <item caption="High quality materials and processes, guaranteeting you a good paint job that lasts longer than you expect"/>
+    </items>
+    <navigation>
+      <button caption="Success Story" dest="Painting_Facilities_ss"/>
+      <button caption="Gallery" dest="Painting_Facilities_gallery"/>
+    </navigation>
+  </page>
+  <page id="Painting_Facilities_ss" type="successStory" path="Painting%Cutting-Edge Facilities%Success Story%Narrow-body VIP painting on A320." startY="400">
+    <items>
+      <collumn>
+        <item caption="Repainting of A320 in paint shop in Munich"/>
+        <item caption="the stripping of the original livery off the aircraft’s fuselage"/>
+        <item caption="application of a new coat of paint to the narrow-bodied A320"/>
+        <item caption="Paint specialists invested approximately 1,500 man hours within a period of just 15 days"/>
+      </collumn>
+    </items>
+  </page>
+  <page id="Painting_Facilities_gallery" type="gallery" path="Painting%Cutting-Edge Facilities%Gallery">
+  </page>
+  <page id="painting_Environmental" type="subTopic" path="Painting%Environmental Considerations">
+    <items>
+      <item caption="Thinking green is not a lifestyle choice. It’s a core part of our operation"/>
+      <item caption="We take environmental responsibility seriously –we use environmentally&#13;&#10;friendly materials and production methods"/>
+      <item caption="We use VOC solvent free along with chrome-free paint materials and energy saving paint operations"/>
+    </items>
+    <navigation>
+      <button caption="Success Story" dest="Painting_Environmental_ss"/>
+      <button caption="Gallery" dest="Painting_Environmental_gallery"/>
+    </navigation>
+  </page>
+  <page id="Painting_Environmental_gallery" type="gallery" path="Painting%Environmental Considerations%Gallery">
+  </page>
+  <page id="Painting_Environmental_ss" type="successStory" path="Painting%Environmental Considerations%Success Story%Green Award" startY="400">
+    <items>
+      <collumn>
+        <item caption="in the category of in-house coating"/>
+        <item caption="The companies are evaluated and selected based on their"/>
+        <item caption="-innovation and dedication"/>
+        <item caption="-their contribution to benchmarking"/>
+        <item caption="-advancing coating technologies"/>
+        <item caption="-involvement in the strengthening of technology transfers"/>
+      </collumn>
+    </items>
+  </page>
+
+  <!--summary-->
+
+  <page id="meetingSummary" type="meetingSummary">
+  </page>
+  
+</flow>

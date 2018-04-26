@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: CertificateDBPF
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: .0747596025}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a15271277abf9c47a63f3fe0d9a57ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 
+  BackgroundTexture: {fileID: 0}
+  EnterTime: 1
+  ExitTime: 1
+  StartEnterAnticipation: .5
+  DBSource: {fileID: 4900000, guid: 7b9635e6da9f301429aa031caef2d481, type: 3}
+  PageArrowsText:
+  - {fileID: 2800000, guid: c1cbbaaf987d1b84c9cad48f7031cba3, type: 3}
+  - {fileID: 2800000, guid: f9776fcf161314a44bc917ed795c481f, type: 3}
+  TableBacks:
+  - {fileID: 2800000, guid: 2742e7abd4b9dac43b8bc8c4c4231a7b, type: 3}
+  - {fileID: 2800000, guid: 6480d2960b4125f489dcd77fc0303214, type: 3}
+  - {fileID: 2800000, guid: 85cc48130ec80d44a85bfe8dc86a77c6, type: 3}
+  ArrowsUpDownTextures:
+  - {fileID: 2800000, guid: 4d04ec6aa2780fd42b820f05f5e5b226, type: 3}
+  - {fileID: 2800000, guid: ec422de5ee6229743a6b8a5b738bd274, type: 3}
+  - {fileID: 2800000, guid: b941e7913d0bad340991bd1b491291e0, type: 3}
+  BulletTexts:
+  - {fileID: 2800000, guid: c608b62501b7b3542bd075086f67d07a, type: 3}
+  - {fileID: 2800000, guid: e53e1e0f06189f14189d364d1ec25a59, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
